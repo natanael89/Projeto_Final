@@ -67,6 +67,9 @@ npm install
 
 npm run dev
 
+Testa funcionalidade:
+Usuário: admin
+Senha: batman123
 
 Funcionalidades
 Login com autenticação JWT
