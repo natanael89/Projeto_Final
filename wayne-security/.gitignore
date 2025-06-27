@@ -1,0 +1,22 @@
+# Ambiente virtual (Python)
+venv/
+.env
+
+# Cache e compilados
+__pycache__/
+*.pyc
+
+# Node.js
+node_modules/
+
+# Build React
+/build
+/dist
+
+# Sistema
+.DS_Store
+*.log
+
+# IDEs
+.vscode/
+.idea/
